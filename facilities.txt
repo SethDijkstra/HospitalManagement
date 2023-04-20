@@ -1,0 +1,6 @@
+Facilities:
+Outpatient
+Admitting
+Pharmacy
+Emergency
+Imaging
